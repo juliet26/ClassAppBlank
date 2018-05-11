@@ -21,3 +21,22 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 // Include all of Ionic
 @import "www/lib/ionic/scss/ionic";
 
+.platform-ios{
+.bar-header{
+	background: #19194D;
+.title{
+	color: #A23537;
+	font-weight: bold;
+}
+}
+}
+.platform-android{
+.bar-header{
+	background: #19194D;
+.title{
+	color: #A23537;
+	font-weight: bold;
+}
+}
+}
+
